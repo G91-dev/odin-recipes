@@ -1,0 +1,30 @@
+/* color, background color, typography properties, etc */
+
+* {
+    background-color: beige;
+    color: DarkSlateGray;
+    font-family: Verdana, Tahoma, Times, serif;
+}
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family: Tahoma, Times, serif;
+    padding-top: 20px;
+}
+
+ul {
+
+}
+
+ul li {
+    padding: 10px 0;
+}
+
+span {
+    border: 2px solid red;
+    background-color: FireBrick;
+    color: floralwhite;
+}
